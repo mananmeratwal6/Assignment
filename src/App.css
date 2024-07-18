@@ -1,0 +1,41 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-image: url("m.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.cardOne{
+  border: 3px solid #2020c2;
+  background-color: rgb(19, 118, 225);
+  border-radius: 30px;
+  box-shadow: 5px 5px 8px 2px rgb(143, 136, 158) ;
+  padding: 30px;
+  margin-top: 100px;
+  gap: 200px;
+  
+  
+}
+
+.paraone{
+  color: rgb(239, 224, 10);
+  display: flex;
+  justify-content: center;
+}
+.container{
+  display: flex;
+  gap: 200px;
+  justify-content: center;
+  margin: 20px;
+} 
+h1{
+  color: aliceblue;
+}
+.cardTwo{
+ color: burlywood;
+}
